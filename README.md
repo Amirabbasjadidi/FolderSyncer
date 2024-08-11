@@ -15,7 +15,7 @@ FolderSyncer is a Windows-based application designed to synchronize two folders 
 
 You can download the latest version of FolderSyncer from the [Releases](https://github.com/Amirabbasjadidi/FolderSyncer/releases) section. 
 
-1. Download the `setup.exe` file from the latest release.
+1. Download the `SyncSetup.exe` file from the latest release.
 2. Run the installer and follow the on-screen instructions.
 
 Once installed, you can launch FolderSyncer from the Start menu or by double-clicking its icon on your desktop.
